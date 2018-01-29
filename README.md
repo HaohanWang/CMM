@@ -17,8 +17,9 @@ CMM (Coupled Mixed Model) is used to simulnateously conduct genetic analysis for
 ## An Example Command:
 
 ```
-python cmm.py -n data/mice1.plink data/mice2.plink
+python cmm.py --file1 ./data/mice1.plink --file2 ./data/mice2.plink -m --snum 20
 ```
+
 #### Data Support
 * CMM currently supports CSV and binary PLINK files.
 * Extensions to other data format can be easily implemented through `FileReader` in `utility/dataLoadear`. Feel free to contact us for the support of other data format.
