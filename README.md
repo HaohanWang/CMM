@@ -24,7 +24,7 @@ python cmm.py --file1 ./data/mice1.plink --file2 ./data/mice2.plink -m --snum 20
 * CMM currently supports CSV and binary PLINK files.
 * Extensions to other data format can be easily implemented through `FileReader` in `utility/dataLoadear`. Feel free to contact us for the support of other data format.
 
-## Installation
+## Installation (Not Required)
 You will need to have numpy, scipy and pysnptool installed on your current system.
 You can install CMM using pip by doing the following
 
