@@ -1,5 +1,3 @@
-__author__ = 'Haohan Wang'
-
 import numpy as np
 
 def matchSNPs(X1, xname1, X2, xname2):
