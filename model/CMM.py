@@ -1,4 +1,4 @@
-__author__ = 'Haohan Wang'
+__author__ = 'Haohan Wang (haohanw@cs.cmu.edu)'
 
 import scipy.optimize as opt
 from sklearn.preprocessing import normalize
