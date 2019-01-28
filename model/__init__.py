@@ -1,2 +1,2 @@
-__author__ = 'Haohan Wang'
+__author__ = 'Haohan Wang (haohanw@cs.cmu.edu)'
 
