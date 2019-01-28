@@ -1,6 +1,3 @@
-__author__ = 'Haohan Wang'
-
-
 # Main file for usage of CMM (Couple Mixed Model)
 # Cite information:
 # Wang H., Liu M., Lee S., Vanyukov MM., Wu W. and Xing EP.
