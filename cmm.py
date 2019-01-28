@@ -1,8 +1,8 @@
 # Main file for usage of CMM (Couple Mixed Model)
-# Cite information:
-# Wang H., Liu M., Lee S., Vanyukov MM., Wu W. and Xing EP.
-# Joint Genetic Analysis of Complex Disorders from Independently Collected Data Sets: Application to Alzheimer's Disease and Substance Use Disorder
-#
+# If you find this work useful, please cite:
+# Wang H., Liu M., Pei F., Vanyukov MM., Bahar I., Wu W. and Xing EP.
+# Coupled Mixed Model for Joint GWAS of Pairs of Complex Disorders with Independently Collected Datasets
+# Contact: {haohanw,weiwu2,epxing}@cs.cmu.edu
 
 import sys
 import numpy as np
