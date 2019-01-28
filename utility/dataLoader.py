@@ -1,5 +1,3 @@
-__author__ = 'Haohan Wang'
-
 import sys
 import numpy as np
 import pysnptools
