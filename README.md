@@ -1,8 +1,10 @@
+![CMM](cmm.PNG "Coupled Mixed Model")
+
 # CMM (Coupled Mixed Model)
 
 Implementation of CMM in this paper:
 
-Wang H., Liu M., Pei F., Vanyukov MM., Bahar I., Wu W. and Xing EP, Coupled Mixed Model for Joint GWAS of Pairs of Complex Disorders with Independently Collected Datasets
+Wang H., Pei F., Vanyukov MM., Bahar I., Wu W. and Xing EP, Coupled Mixed Model for Joint Genetic Analysis of Complex Disorders with Two Independently Collected Data Sets
 
 ## Introduction
 
