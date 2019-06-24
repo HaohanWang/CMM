@@ -8,7 +8,9 @@ Wang H., Pei F., Vanyukov MM., Bahar I., Wu W. and Xing EP, Coupled Mixed Model 
 
 ## Introduction
 
-CMM (Coupled Mixed Model) is used to simulnateously conduct genetic analysis for independently collected data sets of different related phenotypes.
+CMM (Coupled Mixed Model) is used to simulnateously conduct genetic analysis for independently collected data sets of different related phenotypes. CMM aims to achieve this goal by inferring all the information enclosed by dashed lines in the following figure. 
+
+![Introduction](intro.PNG "Introduction")
 
 ## File Structure:
 
