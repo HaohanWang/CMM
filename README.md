@@ -4,7 +4,7 @@
 
 Implementation of CMM in this paper:
 
-Wang H., Pei F., Vanyukov MM., Bahar I., Wu W. and Xing EP, Coupled Mixed Model for Joint Genetic Analysis of Complex Disorders with Two Independently Collected Data Sets (under review)
+Wang H., Pei F., Vanyukov MM., Bahar I., Wu W. and Xing EP, Coupled Mixed Model for Joint Genetic Analysis of Complex Disorders with Two Independently Collected Data Sets (_under review_)
 
 ## Introduction
 
@@ -12,9 +12,9 @@ CMM (Coupled Mixed Model) is used to simulnateously conduct genetic analysis for
 
 ## File Structure:
 
-* models/ main method for CMM
-* utility/ other helper files
-* cmm.py main entry point of using CMM to work with your own data
+* [models/](https://github.com/HaohanWang/CMM/tree/master/model) main method for CMM
+* [utility/](https://github.com/HaohanWang/CMM/tree/master/utility) other helper files
+* [cmm.py](https://github.com/HaohanWang/CMM/blob/master/cmm.py) main entry point of using CMM to work with your own data
 
 ## An Example Command:
 
