@@ -21,6 +21,25 @@ CMM (Coupled Mixed Model) is used to simulnateously conduct genetic analysis for
 ```
 python cmm.py --file1 ./data/mice1.plink --file2 ./data/mice2.plink -m --snum 20
 ```
+#### Instructions
+```
+  Options:
+  -h, --help          show this help message and exit
+
+  Data Options:
+    --file1 INPUT FILE ONE       name of the first input file
+    --file2 INPUT FILE TWO       name of the second input file
+
+  Model Options:
+    --lambda=LMBD     the weight of the penalizer. If neither lambda or snum
+                      is given, cross validation will be run.
+    --snum=SNUM       the number of targeted variables the model selects. If
+                      neither lambda or snum is given, cross validation will
+                      be run.
+    -s                Stability selection
+    -q                Run in quiet mode
+    -m                Run without missing genotype imputation
+```
 
 #### Data Support
 * CMM currently supports CSV and binary PLINK files.
@@ -41,7 +60,7 @@ You can also clone the repository and do a manual install.
 ```
 
 ## Python Users
-Proficient python users can directly call the CMM method with python code, see example at [Line 261](https://github.com/HaohanWang/CMM/blob/master/cmm.py#L261) to Line 266
+Proficient python users can directly call the CMM method with python code, see example at [Line 261 to Line 266](https://github.com/HaohanWang/CMM/blob/master/cmm.py#L261)
 
 ## Contact
 [Haohan Wang](http://www.cs.cmu.edu/~haohanw/)
