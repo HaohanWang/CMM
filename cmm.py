@@ -1,6 +1,6 @@
 # Main file for usage of CMM (Couple Mixed Model)
 # If you find this work useful, please cite:
-# Wang H., Liu M., Pei F., Vanyukov MM., Bahar I., Wu W. and Xing EP.
+# Wang H., Pei F., Vanyukov MM., Bahar I., Wu W. and Xing EP.
 # Coupled Mixed Model for Joint GWAS of Pairs of Complex Disorders with Independently Collected Datasets
 # Contact: {haohanw,weiwu2,epxing}@cs.cmu.edu
 
