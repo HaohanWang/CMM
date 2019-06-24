@@ -12,6 +12,8 @@ CMM (Coupled Mixed Model) is used to simulnateously conduct genetic analysis for
 
 ![Introduction](intro.PNG "Introduction")
 
+**Replication:** This repository serves for the purpose to guide others to use our tool, if you are interested in the scripts to replicate our results, please contact us and we will share the repository for replication. Contact information is at the bottom of this page.
+
 ## File Structure:
 
 * [models/](https://github.com/HaohanWang/CMM/tree/master/model) main method for CMM
