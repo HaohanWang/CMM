@@ -39,9 +39,11 @@ You can also clone the repository and do a manual install.
    git clone https://github.com/HaohanWang/CMM
    python setup.py install
 ```
-## Software with GUI
-Software with GUI will be avaliable through [GenAMap](http://genamap.org/)
 
+## Python Users
+Proficient python users can directly call the CMM method with python code, see example at [Line 261](https://github.com/HaohanWang/CMM/blob/master/cmm.py#L261) to Line 266
 
 ## Contact
 [Haohan Wang](http://www.cs.cmu.edu/~haohanw/)
+&middot;
+[@HaohanWang](https://twitter.com/HaohanWang)
