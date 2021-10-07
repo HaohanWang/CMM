@@ -4,7 +4,7 @@
 
 Implementation of CMM in this paper:
 
-Wang H., Pei F., Vanyukov MM., Bahar I., Wu W. and Xing EP, Coupled Mixed Model for Joint Genetic Analysis of Complex Disorders with Two Independently Collected Data Sets (_under review_) (_[preprint](https://www.biorxiv.org/content/10.1101/336727v2)_)
+Wang, Haohan, Fen Pei, Michael M. Vanyukov, Ivet Bahar, Wei Wu, and Eric P. Xing. "Coupled mixed model for joint genetic analysis of complex disorders with two independently collected data sets." BMC bioinformatics 22, no. 1 (2021): 1-14. (_[link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-03959-2)_)
 
 ## Introduction
 
